@@ -1,21 +1,21 @@
-<h1 align="center"><b>❤️ SHIZUKA MUSIC ❤️</b></h1>
+<h1 align="center"><b>💘𝐑𝐨𝐦𝐞𝐨✘𝐌𝐮𝐬𝐢𝐜💘</b></h1>
 
-<h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">𝐑𝐨𝐦𝐞𝐨 𝐀 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥, 𝐒𝐦𝐚𝐫𝐭 𝐀𝐧𝐝 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭 𝐓𝐨 𝐏𝐥𝐚𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 𝐒𝐨𝐧𝐠 𝐈𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦<𝐛𝐫> ... 𝐖𝐫𝐢𝐭𝐭𝐞𝐧 𝐖𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 𝐚𝐧𝐝 𝐓𝐞𝐥𝐞𝐭𝐡𝐨𝐧...</h4>
 
-<p align="center"><a href="https://telegram.dog/its_star_boi"><img src="https://te.legra.ph/file/159d3f9e2d57dd02db970.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.dog/itsRomeo143"><img src="https://i.postimg.cc/85VZqKsS/20230408-233946.jpg"width="400"></a></p>
 
 <p align="center">
-    <a href="https://github.com/its-star-boi/ShizukaXMusic"> <img src="https://img.shields.io/github/repo-size/its-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/its-star-boi/ShizukaXMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/its-star-boi/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/its-star-boi/ShizukaXMusic/issues"> <img src="https://img.shields.io/github/issues/its-star-boi/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/its-star-boi/ShizukaXMusic/network/members"> <img src="https://img.shields.io/github/forks/its-star-boi/ShizukaXMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/itsromeo143/RomeoXMusic"> <img src="https://img.shields.io/github/repo-size/itsromeo143/RomeoXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/itsromeo143/RomeoXMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/itsromeo143/RomeoXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/itsromeo143/RomeoXMusic/issues"> <img src="https://img.shields.io/github/issues/itsromeo143/RomeoXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/itsromeo143/RomeoXMusic/network/members"> <img src="https://img.shields.io/github/forks/itsromeo143/RomeoXMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Shizuka,  🤭 That is the greatest pleasure we have !
+> ⭐️ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐅𝐨𝐫 𝐔𝐬𝐢𝐧𝐠 𝐑𝐨𝐦𝐞𝐨,  🤭 𝐓𝐡𝐚𝐭 𝐢𝐬 𝐓𝐡𝐞 𝐆𝐫𝐞𝐚𝐭𝐞𝐬𝐭 𝐏𝐥𝐞𝐚𝐬𝐮𝐫𝐞 𝐖𝐞 𝐇𝐚𝐯𝐞 !
 
 
-## Features Of Shizuka And Commands ❤️
+## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐎𝐟 𝐑𝐨𝐦𝐞𝐨 𝐀𝐧𝐝 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 ❤️
 
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
@@ -38,7 +38,7 @@
 - Block / Unblock (restrict user for using your bot)
 </details>
 
-#### Overall Basic Commands 😂
+#### 𝐎𝐯𝐞𝐫𝐚𝐥𝐥 𝐁𝐚𝐬𝐢𝐜 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬😂
 <details>
 <summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
 <br>
@@ -52,7 +52,7 @@
 - `/vk <song name>` - generate song without download
 </details>
 
-### Only Admin Can Exicute 🙄
+### 𝐎𝐧𝐥𝐲 𝐀𝐝𝐦𝐢𝐧 𝐂𝐚𝐧 𝐄𝐱𝐢𝐜𝐮𝐭𝐞 🙄
 
 <details>
 <summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
@@ -68,7 +68,7 @@
 - `/deauth` - deauthorized people to access the admin commands
 </details>
 
-### Sudo Commands 🤭
+### 𝐒𝐮𝐝𝐨 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 🤭
 <details>
 <summary><b>sᴜᴅᴏ ᴄᴍᴅs ᴏɴʟʏ</b></summary>
 <br>
@@ -77,7 +77,7 @@
 - `/gban` - gban user
 </details>
     
-### Only Owner 🙈
+###  𝐎𝐧𝐥𝐲 𝐎𝐰𝐧𝐞𝐫 🙈
 <details>
 <summary><b>ᴏɴʟʏ ᴏᴡɴᴇʀ</b></summary>
 <br>
@@ -91,7 +91,7 @@
 
 </details>
 
-# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
+# 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓
 
 
 <details>
@@ -111,7 +111,7 @@
 <br>
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ sʜɪᴢᴜᴋᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ 
         
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/its-star-boi/ShizukaXMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/itsromeo143/RomeoXMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
     
 </details>
 
@@ -133,23 +133,20 @@
 <details>
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
-
-<i>**[Watch Deploying Tutorial...](https://youtu.be/yfeavn1V20Q)**</i>
-
 > ʜᴇʀᴏᴋᴜ ʜᴀs ᴛᴡᴏ ᴠᴀʀs[ ʜᴇʀᴏᴋᴜ_ᴀᴘɪ_ᴋᴇʏ & ʜᴇʀᴏᴋᴜ_ᴀᴘᴘ_ɴᴀᴍᴇ ] ғᴏʀ ᴜᴘᴅᴀᴛᴇʀ ᴛᴏ ᴡᴏʀᴋ. 
 > ʙʏ sᴇᴛᴛɪɴɢ ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ, sᴇᴛ ᴠᴀʀ, ᴇᴅɪᴛ ᴠᴀʀ, ᴅᴇʟᴇᴛᴇ ᴠᴀʀs , ᴄʜᴇᴄᴋ ᴅʏɴᴏ ᴜsᴀɢᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙᴏᴛ. 
 > ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4> 
    
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fits-star-boi%2FShizukaXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fitsromeo143%2FRomeoXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 </details>
 
 <details>
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ᴠᴘs</b></summary>
 <br>
 
-- Get your [Necessary Variables](https://github.com/its-star-boi/ShizukaXMusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/itsromeo143/RomeoXMusic/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -161,7 +158,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/its-star-boi/ShizukaXMusic && cd ShizukaXMusic`
+`git clone https://github.com/itsromeo143/RomeoXMusic && cd RomeoXMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -178,21 +175,15 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 </details>
 
-# Owner And Credit)
+# 𝐎𝐰𝐧𝐞𝐫 𝐀𝐧𝐝 𝐂𝐫𝐞𝐝𝐢𝐭)
 <details>
 <summary><b>ᴄʀᴇᴅɪᴛ</b></summary>
 <br>
 
-## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
+## 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐂𝐫𝐞𝐝𝐢𝐭
 
 - [sᴛᴀʀ ʙᴏɪ](https://telegram.dog/its_star_boi)
-- [ᴀsᴀᴅ ᴀʟɪ](https://telegram.dog/Dr_Asad_Ali)
-- [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
-- [ʜᴀʀsʜɪᴛ](https://telegram.dog/HarshitSharma361)
-- [Abhimanyu](https://telegram.dog/Itz_Venom_xD)
-- [ᴍᴀssoᴍ](https://telegram.dog/Kattai_massom)
 - [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
 </details>
 
 <details>
@@ -200,8 +191,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <br>
 
 # ❤️ Support<
-<a href="https://telegram.dog/Star_X_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/Star_X_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/Romeo_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.dog/RomeoSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
@@ -212,7 +203,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <summary><b>ʟɪʙʀᴀʀɪᴇs</b></summary>
 <br>
 
-ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ sʜɪᴢᴜᴋᴀ:
+ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ ʀᴏᴍᴇᴏ ✘ ᴍᴜꜱɪᴄ :
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
