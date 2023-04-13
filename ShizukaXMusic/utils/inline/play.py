@@ -2,9 +2,6 @@ from pyrogram.types import InlineKeyboardButton
 from config import SUPPORT_GROUP, SUPPORT_CHANNEL
 import random
 
-## After Edits with Timer Bar
-
-
 selections = [
     "▁▄▂▇▄▅▄▅▃",
     "▁▃▇▂▅▇▄▅▃",
@@ -22,7 +19,7 @@ selections = [
 ]
 
 
-## After Edits with Timer Bar
+
 
 
 def stream_markup_timer(_, videoid, chat_id, played, dur):
@@ -40,7 +37,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/its-star-boi/ShizukaXMusic"
+                text="🥀sᴏᴜʀᴄᴇ👉", url=f"https://github.com/itsRomeo143/RomeoXMusic"
             ),
         ],
         [
@@ -48,7 +45,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💌", url=f"{SUPPORT_GROUP}"),
+            InlineKeyboardButton(text="🥀ᴊᴏɪɴ ᴄʜᴀᴛ📡", url=f"https://t.me/Hindichat_House"),
         ],
     ]
     return buttons
@@ -68,20 +65,19 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/its-star-boi/ShizukaXMusic"),
+            InlineKeyboardButton(text="🥀sᴏᴜʀᴄᴇ👉", url=f"https://github.com/itsRomeo143/RomeoXMusic"),
         ],
         [
             InlineKeyboardButton(
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💌", url=f"{SUPPORT_GROUP}"),
+            InlineKeyboardButton(text="🥀ᴊᴏɪɴ ᴄʜᴀᴛ📡", url=f"https://t.me/Hindichat_House"),
         ],
     ]
     return buttons
 
 
-## Inline without Timer Bar
 
 
 def stream_markup(_, videoid, chat_id):
@@ -91,14 +87,14 @@ def stream_markup(_, videoid, chat_id):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/its-star-boi/ShizukaXMusic"),
+            InlineKeyboardButton(text="🥀sᴏᴜʀᴄᴇ👉", url=f"https://github.com/itsromeo143/RomeoXMusic"),
         ],
         [
             InlineKeyboardButton(
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💌", url=f"{SUPPORT_GROUP}"),
+            InlineKeyboardButton(text="🥀ᴊᴏɪɴ ᴄʜᴀᴛ📡", url=f"https://t.me/Hindichat_House"),
         ],
     ]
     return buttons
