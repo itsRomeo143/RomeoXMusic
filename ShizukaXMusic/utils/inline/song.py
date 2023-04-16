@@ -15,7 +15,7 @@ def song_markup(_, vidid):
         ],
         [
             InlineKeyboardButton(
-                text="•✾𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐭✾•",
+                text="•☆𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐭☆•",
                 url=f"https://t.me/Hindichat_House",
             ),
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
